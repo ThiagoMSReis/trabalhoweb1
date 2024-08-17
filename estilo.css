@@ -1,0 +1,191 @@
+body {
+    background-color: #d8d8d8;
+}
+#divtop {
+    background-color: #0A1128;
+    text-align: center;
+    margin: -30px -8px 0px -30px;
+    padding: 50px;
+}
+#divtop > img{
+    width:200px;
+    border: solid 10px #1282A2;
+    border-radius: 50%;
+    margin: auto;
+}
+#divtop > h1 {
+    color: #FEFCFB;
+    font-family: "Press Start 2P", system-ui;
+    font-size: 30px;
+}
+#divtop > h2 {
+    color: #FEFCFB;
+    font-family: "Press Start 2P", system-ui;
+    font-size: 20px;
+}
+.divposts {
+    border-radius: 10px;
+    margin: 40px auto;
+    width: 750px;
+    height: auto;
+    background-color: #FEFCFB;
+    padding: 20px 20px 60px 20px;
+}
+.divposts img {
+    width: 700px;
+    border-radius: 10px;
+}
+.divposts > h6 {
+    text-align: center;
+}
+.divposts > h2 {
+    font-family: "Press Start 2P", system-ui;
+    font-size: 15px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.divposts > p {
+    font-family: "Silkscreen", sans-serif;
+    font-size: 15px;
+    text-align: justify;
+    margin-bottom: 20px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.divposts > a {
+    background-color: #1282A2;
+    padding: 15px;
+    font-family: "Press Start 2P", system-ui;
+    font-size: 10px;
+    color: #FEFCFB;
+    border-radius: 10px;
+    text-decoration: none;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    margin: 15px 25px 30px 25px;
+}
+#divinfos {
+    background-color: #0A1128;
+    text-align: left;
+    color: #FEFCFB;
+    font-family: "Press Start 2P", system-ui;
+    padding: 30px;
+    margin: 0px -8px -30px -30px;
+    display: flex;
+}
+#divinfos img {
+    width: 200px;
+    border: solid 5px #FEFCFB;
+    border-radius: 50%;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+#divinfo2 {
+    margin: auto 30px;
+}
+#divinfos li {
+    margin: 20px;
+    list-style: none;
+}
+#divinfos h2 {
+    text-align: center;
+    margin-left: 30px;
+}
+#divinfos  a {
+    color: white;
+}
+#homepage img {
+    width: 60px;
+    margin: auto;
+}
+#homepage {
+    background-color: #1282A2;
+    border-radius: 10px;
+    margin: -10px 0px 20px -10px;
+    text-align: center;
+    width: 70px;
+}
+#homepage > a {
+    margin: auto;
+}
+#texto {
+    border-radius: 10px;
+    margin: 30px auto;
+    width: 750px;
+    height: auto;
+    background-color: #FEFCFB;
+    padding: 20px 20px 40px 20px;
+}
+#texto img {
+    width: 700px;
+    border-radius: 10px;
+}
+#texto h6 {
+    text-align: center;
+}
+#texto h1 {
+    margin-left: 25px;
+    margin-right: 25px;
+    font-family: "Press Start 2P", system-ui;
+    font-size: 25px;
+}
+#texto h3 {
+    margin-left: 25px;
+    margin-right: 25px;
+    padding-top:10px;
+    margin-top: 0px;
+    font-family: "Press Start 2P", system-ui;
+    font-size: 15px;
+}
+#texto p {
+    margin-left: 25px;
+    margin-right: 25px;
+    font-family: "Silkscreen", sans-serif;
+    font-size: 15px;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+#texto a {
+    color: black;
+    text-decoration: none;
+}
+#sumario h3 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#sumario > ol {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+#sumario li {
+    counter-increment: custom-counter;
+    font-family: "Press Start 2P", system-ui;
+    font-size: 15px;
+    color: black;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+#sumario a {
+    font-family: "Silkscreen", sans-serif;
+    font-size: 15px;
+    color: black;
+    text-decoration: none;
+}
+#sumario {
+    background-color: #d8d8d8;
+    width: 700px;
+    margin-left: 25px;
+    margin-right: 25px;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+#iframe {
+    text-align: center;
+}
+iframe {
+    border-radius: 10px;
+    overflow: hidden;
+    padding: 0px;
+}
